@@ -1,0 +1,10 @@
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-JC113BJ\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
