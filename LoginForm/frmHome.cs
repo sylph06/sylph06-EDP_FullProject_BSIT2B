@@ -16,5 +16,52 @@ namespace LoginForm
         {
             InitializeComponent();
         }
+
+        private void frmHome_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmRegister frm = new frmRegister();
+            frm.Show();
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            frmStoreStatus frm = new frmStoreStatus();
+            frm.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            frmPriceBook frm = new frmPriceBook();
+            frm.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            frmVendors frm = new frmVendors();
+            frm.Show();
+            this.Hide();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            frmUsers frm = new frmUsers();
+            frm.Show();
+            this.Hide();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            frmTimeClock frm = new frmTimeClock();
+            frm.Show();
+            this.Hide();
+        }
     }
 }
