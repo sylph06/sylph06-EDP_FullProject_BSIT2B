@@ -7,7 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Data;
+using MySql.Data.MySqlClient;
 namespace LoginForm
 {
     public partial class Form1 : Form
@@ -17,9 +18,18 @@ namespace LoginForm
             InitializeComponent();
         }
 
+        MyDatabase DB = new MyDatabase();
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            if (DB.TestConnection() == true)
+            {
+                MessageBox.Show("Connected Succesfully");
+            }
+            else
+            {
+                MessageBox.Show("Not Connected");
+            
+            }
         }
         string[,] UserCredentials =
             {
@@ -41,23 +51,17 @@ namespace LoginForm
                 tbPassword.Focus();
             }
             else {
-                for (int x = 0; x < UserCredentials.GetLength(0); x++)
-                {
-                    if (tbUsername.Text == UserCredentials[x, 0]) {
-                        if (tbPassword.Text == UserCredentials[x, 1])
-                        {
-                            frmHome frm = new frmHome();
-                            MessageBox.Show("Welcome " + UserCredentials[x, 2]);
-                            this.Hide();
-                            frm.Show();
-                            break;
-                        }
-                        else {
-                            MessageBox.Show("Invalid Username/Password");
-                            break;
-                        }
-                    }
-                } 
+                DataTable dt = DB.ExecuteReturnQuery("select * from tbllogincredentials where user_username = @uname and user_password = @pword;",
+                    new MySqlParameter("@uname", tbUsername.Text),
+                    new MySqlParameter("@pword", tbPassword.Text));
+
+
+                if (dt.Rows.Count == 1) {
+                    frmHome frm = new frmHome();
+                    this.Hide();
+                    frm.Show();
+                }
+          
                 
 
             }

@@ -19,3 +19,21 @@ C:\Users\geisl\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.Gener
 C:\Users\geisl\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
 C:\Users\geisl\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
 C:\Users\geisl\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\MySql.Data.dll
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Memory.dll
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Buffers.dll
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\MySql.Data.xml
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.frmHome.resources
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.Up2Date
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.pdb
