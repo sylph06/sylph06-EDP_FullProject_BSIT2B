@@ -63,5 +63,12 @@ namespace LoginForm
             frm.Show();
             this.Hide();
         }
+
+        private void frmHome_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Form1 frm = new Form1();
+            frm.Show(); 
+            this.Hide();
+        }
     }
 }

@@ -37,3 +37,19 @@ C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Deb
 C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.Up2Date
 C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.exe
 C:\Users\PCU GUEST\Source\Repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Memory.dll
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\bin\Debug\System.Buffers.dll
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.frmHome.resources
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.csproj.Up2Date
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\geisl\source\repos\sylph06-EDP_FullProject_BSIT2B\LoginForm\obj\Debug\LoginForm.frmUsers.resources
