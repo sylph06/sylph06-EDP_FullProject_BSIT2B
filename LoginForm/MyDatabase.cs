@@ -15,7 +15,7 @@ namespace LoginForm
     {
 //connection string. Note: change Database to your database name.
 
-string connectionString = "Server=localhost;Port=3306;Database='borquillo_DB';Uid='root';Pwd=''";
+string connectionString = "Server=localhost;Port=3306;Database='borquillo_db';Uid='root';Pwd=''";
 
 
 

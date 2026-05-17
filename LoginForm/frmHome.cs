@@ -33,21 +33,21 @@ namespace LoginForm
         {
             frmStoreStatus frm = new frmStoreStatus();
             frm.Show();
-            this.Hide();
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             frmPriceBook frm = new frmPriceBook();
             frm.Show();
-            this.Hide();
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             frmVendors frm = new frmVendors();
             frm.Show();
-            this.Hide();
+            
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -61,14 +61,23 @@ namespace LoginForm
         {
             frmTimeClock frm = new frmTimeClock();
             frm.Show();
-            this.Hide();
+            
         }
 
         private void frmHome_FormClosing(object sender, FormClosingEventArgs e)
         {
+                Form1 frm = new Form1();
+                frm.Show(); 
+                this.Hide();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
             Form1 frm = new Form1();
-            frm.Show(); 
+            frm.Show();
             this.Hide();
         }
+
+        
     }
 }
